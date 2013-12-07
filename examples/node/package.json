@@ -1,0 +1,8 @@
+{
+    "name": "LogZ-Examples",
+    "version": "0.0.1",
+    "description": "LogZ Examples",
+    "dependencies": {
+        "moment": "*"
+    }
+}
