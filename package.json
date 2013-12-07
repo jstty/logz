@@ -1,0 +1,38 @@
+{
+    "name": "logz",
+    "version": "0.0.1",
+    "description": "Simple console wrapper",
+    "keywords": [
+        "node.js",
+        "javascript",
+        "log",
+        "logger",
+        "zeta.js"
+    ],
+    "author": {
+        "name": "Joseph E. Sutton",
+        "email": "joe@jstty.com",
+        "web": "http://www.jstty.om"
+    },
+    "license": {
+        "type": "MIT"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/jstty/zjs-logz.git"
+    },
+    "devDependencies": {
+        "mocha": "*"
+    }
+    "directories": {
+        "examples": "examples",
+        "tests": "tests"
+    },
+    "engines": {
+        "node": ">=0.6.0"
+    },
+    "scripts": {
+        "test": "mocha test/all.js",
+        "build": "uglifyjs lib/logz.js -o logz-min.js"
+    }
+}
