@@ -1,6 +1,7 @@
 var moment = require('moment');
 var LogZ   = require('../../lib/logz.js');
 
+/*
 var logz = LogZ({
 	 display: true
 	,buffer: {
@@ -12,11 +13,14 @@ var logz = LogZ({
 		showTrace: true
 	}
 });
+*/
+
+var logz = LogZ("dev");
 
 console.log("-- Log Output --");
 logz.log("test");
-logz.log("test: %s", "string");
-logz.log("test: %d", 123);
+logz.info("test: %s", "string");
+logz.warn("test: %d", 123);
 logz.error("test error: %d", 123);
 
 logz.log("before group");
