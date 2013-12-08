@@ -22,7 +22,8 @@
         "url": "http://github.com/jstty/zjs-logz.git"
     },
     "dependencies": {
-        "sprintf-js": "*"
+        "sprintf-js":  "*",
+        "stack-trace": "*"
     },
     "devDependencies": {
         "mocha": "*"
