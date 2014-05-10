@@ -1,10 +1,10 @@
-# LogZ [![Build Status](https://secure.travis-ci.org/jstty/logz.png)](http://travis-ci.org/jstty/logz) [![Dependency Status](https://david-dm.org/jstty/logz.png?theme=shields.io)](https://david-dm.org/jstty/logz) [![devDependency Status](https://david-dm.org/jstty/logz/dev-status.png?theme=shields.io)](https://david-dm.org/jstty/logz#info=devDependencies) [![NPM](https://nodei.co/npm/js-logz.png)](https://nodei.co/npm/js-logz/)
+# LogZ [![Build Status](https://secure.travis-ci.org/jstty/logz.png)](http://travis-ci.org/jstty/logz) [![Dependency Status](https://david-dm.org/jstty/logz.png?theme=shields.io)](https://david-dm.org/jstty/logz) [![devDependency Status](https://david-dm.org/jstty/logz/dev-status.png?theme=shields.io)](https://david-dm.org/jstty/logz#info=devDependencies) [![NPM](https://nodei.co/npm/logz-js.png)](https://nodei.co/npm/logz-js/)
 
 > A javascript template library that you define the html and template functions in a JSON.
 
 ## NPM
 ```sh
-$ npm install js-logz
+$ npm install logz-js
 ```
 
 ## Bower
