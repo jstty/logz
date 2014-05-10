@@ -1,0 +1,16 @@
+{
+    "name": "LogZ",
+    "version": "0.1.0",
+    "main": "lib/logz.js",
+    "ignore": [
+        "node_modules",
+        ".*"
+    ],
+    "dependencies": {
+        "sprintf": "~0.0.7"
+    },
+    "devDependencies": {
+        "mocha": "~1.18.2",
+        "chai":  "~1.9.1"
+    }
+}

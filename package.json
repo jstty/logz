@@ -1,7 +1,7 @@
 {
     "name": "js-logz",
     "version": "0.1.0",
-    "description": "Simple console wrapper",
+    "description": "Simple logger",
     "keywords": [
         "node.js",
         "javascript",
