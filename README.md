@@ -173,3 +173,16 @@ console.log("-- Printing Buffered Output --");
 console.log("----------------------------------------------------------");
 $('#logz').append(dump.join("\n"));
 ```
+
+## Tests
+
+### Mocha
+```sh
+$ npm test
+```
+
+### Karma
+```sh
+$ npm run-script test-browser
+```
+
