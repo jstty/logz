@@ -1,6 +1,5 @@
-# LogZ [![Build Status](https://secure.travis-ci.org/jstty/logz.png)](http://travis-ci.org/jstty/logz) [![Dependency Status](https://david-dm.org/jstty/logz.png?theme=shields.io)](https://david-dm.org/jstty/logz) [![devDependency Status](https://david-dm.org/jstty/logz/dev-status.png?theme=shields.io)](https://david-dm.org/jstty/logz#info=devDependencies) [![NPM](https://nodei.co/npm/logz-js.png)](https://nodei.co/npm/logz-js/)
-
-> A javascript template library that you define the html and template functions in a JSON.
+# LogZ 
+[![Build Status](https://secure.travis-ci.org/jstty/logz.png)](http://travis-ci.org/jstty/logz) [![Dependency Status](https://david-dm.org/jstty/logz.png?theme=shields.io)](https://david-dm.org/jstty/logz) [![devDependency Status](https://david-dm.org/jstty/logz/dev-status.png?theme=shields.io)](https://david-dm.org/jstty/logz#info=devDependencies) [![NPM](https://nodei.co/npm/logz-js.png)](https://nodei.co/npm/logz-js/)
 
 ## NPM
 ```sh
