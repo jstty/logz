@@ -1,7 +1,7 @@
 {
     "name": "logz-js",
-    "version": "0.2.1",
-    "description": "Simple logger",
+    "version": "0.2.2",
+    "description": "Configurable logger with a buffer to pipe logs to a server",
     "keywords": [
         "node.js",
         "javascript",
