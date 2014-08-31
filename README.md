@@ -1,3 +1,5 @@
+### This project is no longer maintained, please go to https://github.com/jstty/stumpy
+
 # LogZ 
 [![Build Status](https://secure.travis-ci.org/jstty/logz.png)](http://travis-ci.org/jstty/logz) [![Dependency Status](https://david-dm.org/jstty/logz.png?theme=shields.io)](https://david-dm.org/jstty/logz) [![devDependency Status](https://david-dm.org/jstty/logz/dev-status.png?theme=shields.io)](https://david-dm.org/jstty/logz#info=devDependencies) [![NPM](https://nodei.co/npm/logz-js.png)](https://nodei.co/npm/logz-js/)
 
